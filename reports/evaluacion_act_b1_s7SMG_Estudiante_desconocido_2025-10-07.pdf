@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 10735
+/Length 11461
 >>
 stream
 0.5670000000000001 w
@@ -48,14 +48,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 7/10/2025, 10:13:40) Tj
+(Fecha de evaluación: 7/10/2025, 10:26:14) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 677.0081102362204319 Td
-(Evaluado por: Sistema de Evaluación Masiva) Tj
+(Evaluado por: Sistema de Evaluación) Tj
 ET
 BT
 /F2 12 Tf
@@ -214,7 +214,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 498.6533858267716255 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -280,7 +280,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 470.2533858267717051 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -347,7 +347,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 441.8533858267717278 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -414,7 +414,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 413.4533858267717505 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -471,7 +471,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 213.3258267716536238 Td
-(Estado: Archivo no encontrado) Tj
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
@@ -481,10 +481,25 @@ BT
 (Calificación: 0.0/5.0) Tj
 ET
 BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 181.9872440944883465 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 166.3179527559057078 Td
+(La solución provista solo contiene el esqueleto básico de la clase Main, sin implementación alguna de la lógica) Tj
+T* (requerida para el sistema de tienda. No cumple con ninguno de los requisitos de la actividad.) Tj
+ET
+BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 173.4833070866143316 Td
+39.6850393700787407 130.6447244094490543 Td
 (Actividad 2: CLASE PADRE - Ejercicio 2: Implementa la clase base Producto con atributos protegidos y) Tj
 T* (métodos obligatorios. INDICACIONES: 1\) Declarar atributos protegidos: String nombre, double precioBase,) Tj
 T* (String codigo \(formato PROD-XXXX\), int cantidadStock, String categoria, boolean activo, 2\) Constructor:) Tj
@@ -501,22 +516,37 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 42.814015748031693 Td
+51.0236220472441033 -0.0245669291336981 Td
 (Archivo esperado: src/main/java/com/example/Producto.java) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 27.1447244094490543 Td
-(Estado: Archivo no encontrado) Tj
+51.0236220472441033 -15.6938582677163367 Td
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 11.4754330708664156 Td
+51.0236220472441033 -31.3631496062989754 Td
 (Calificación: 0.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 -47.0324409448817278 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 -62.7017322834643664 Td
+(La clase Producto está vacía, no implementa ninguno de los atributos ni métodos requeridos en la descripción de la) Tj
+T* (actividad. La solución no resuelve la actividad.) Tj
 ET
 BT
 /F1 8 Tf
@@ -544,7 +574,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 4386
+/Length 4915
 >>
 stream
 0.5670000000000001 w
@@ -578,7 +608,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 638.8585039370078675 Td
-(Estado: Archivo no encontrado) Tj
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
@@ -588,10 +618,25 @@ BT
 (Calificación: 0.0/5.0) Tj
 ET
 BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 607.5199212598425902 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 591.8506299212599515 Td
+(La clase ProductoAlimenticio está vacía. No cumple con ninguno de los requisitos de la actividad, como la) Tj
+T* (herencia, los atributos, los métodos o la lógica solicitada.) Tj
+ET
+BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 599.0159842519685753 Td
+39.6850393700787407 556.1774015748031843 Td
 (Actividad 4: CLASE HIJA ELECTRONICO - Ejercicio 4: Implementa ProductoElectronico que herede de) Tj
 T* (Producto con atributos y métodos específicos. INDICACIONES: 1\) Usar extends Producto para heredar, 2\)) Tj
 T* (Atributos adicionales: int garantiaMeses, String marca, double voltaje, boolean esImportado, 3\)) Tj
@@ -607,35 +652,50 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 479.8466929133858798 Td
+51.0236220472441033 437.0081102362205456 Td
 (Archivo esperado: src/main/java/com/example/ProductoElectronico.java) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 464.1774015748031843 Td
-(Estado: Archivo no encontrado) Tj
+51.0236220472441033 421.338818897637907 Td
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 448.5081102362205456 Td
+51.0236220472441033 405.6695275590552114 Td
 (Calificación: 0.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 390.0002362204725728 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 374.3309448818899341 Td
+(La clase ProductoElectronico está completamente vacía. No se implementa la herencia de Producto, atributos,) Tj
+T* (constructor ni métodos solicitados en la descripción de la actividad.) Tj
 ET
 BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 424.3348818897638353 Td
+39.6850393700787407 338.6577165354332237 Td
 (Resumen General) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 400.9962992125985579 Td
+39.6850393700787407 315.3191338582679464 Td
 (Necesita mejorar. Completó 0/4 actividades \(0%\) con una calificación promedio de 0.0/5. Se recomienda revisar los) Tj
 T* (conceptos fundamentales.) Tj
 ET
@@ -643,30 +703,28 @@ BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 359.6537795275592089 Td
+39.6850393700787407 273.9766141732285405 Td
 (Recomendaciones) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 336.3151968503938747 Td
-(• Completar los archivos faltantes: src/main/java/com/example/Main.java,) Tj
-T* (src/main/java/com/example/Producto.java, src/main/java/com/example/ProductoAlimenticio.java,) Tj
-T* (src/main/java/com/example/ProductoElectronico.java) Tj
+51.0236220472441033 250.6380314960632631 Td
+(• Revisar y mejorar las actividades con calificación baja) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 297.6459055118111792 Td
+51.0236220472441033 234.9687401574806245 Td
 (• Enfocarse en mejorar la documentación y comentarios del código) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 281.9766141732285405 Td
+51.0236220472441033 219.2994488188979858 Td
 (• Aplicar mejores prácticas de programación) Tj
 ET
 BT
@@ -855,7 +913,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20251007101340-05'00')
+/CreationDate (D:20251007102614-05'00')
 >>
 endobj
 22 0 obj
@@ -869,35 +927,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000015515 00000 n 
-0000017340 00000 n 
+0000016770 00000 n 
+0000018595 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000010940 00000 n 
-0000011077 00000 n 
-0000015578 00000 n 
-0000015703 00000 n 
-0000015833 00000 n 
-0000015966 00000 n 
-0000016104 00000 n 
-0000016228 00000 n 
-0000016357 00000 n 
-0000016489 00000 n 
-0000016625 00000 n 
-0000016753 00000 n 
-0000016880 00000 n 
-0000017009 00000 n 
-0000017142 00000 n 
-0000017244 00000 n 
-0000017590 00000 n 
-0000017676 00000 n 
+0000011666 00000 n 
+0000011803 00000 n 
+0000016833 00000 n 
+0000016958 00000 n 
+0000017088 00000 n 
+0000017221 00000 n 
+0000017359 00000 n 
+0000017483 00000 n 
+0000017612 00000 n 
+0000017744 00000 n 
+0000017880 00000 n 
+0000018008 00000 n 
+0000018135 00000 n 
+0000018264 00000 n 
+0000018397 00000 n 
+0000018499 00000 n 
+0000018845 00000 n 
+0000018931 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <BD05EAF0DE75A83527BB2DEEB98C3AC9> <BD05EAF0DE75A83527BB2DEEB98C3AC9> ]
+/ID [ <1D5ED522444B43E48CC00B9458EF9459> <1D5ED522444B43E48CC00B9458EF9459> ]
 >>
 startxref
-17780
+19035
 %%EOF
